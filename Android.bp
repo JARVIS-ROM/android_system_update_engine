@@ -183,6 +183,7 @@ cc_defaults {
         "libpayload_extent_ranges",
         "libpayload_extent_utils",
         "libcow_operation_convert",
+        "libprocessgroup",
     ],
     shared_libs: [
         "libbase",
